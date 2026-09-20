@@ -1,0 +1,12 @@
+node_modules
+dist
+coverage
+.playwright
+playwright-report
+test-results
+
+.env
+
+postgres-data
+redis-data
+notes/
